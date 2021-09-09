@@ -1,4 +1,4 @@
-# TSL MPU6050 Library
+# TSL MPU-6050 Library
 ## Overview
 This is a library for the GY-521 MPU-6050 3-Axis Accelerometer Gyroscope Sensor Module. This is an open-source library developed at CNM Ingenuity's Technology Solutions Labs. The sensor module used in the development of this library can be purchased [here](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B078SS8NQV).
 
